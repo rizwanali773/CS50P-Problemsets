@@ -1,5 +1,7 @@
 # StudyPulse 🧠📘
 
+#### [Video Demo](https://youtu.be/x2kcZqMXWv8)
+
 ## CS50P Final Project
 
 **StudyPulse** is a command-line Python application that helps students track their daily study habits and provides smart analysis with personalized feedback. Instead of being just a simple tracker, StudyPulse analyzes patterns in study time, subjects, moods, and consistency to encourage better study habits.

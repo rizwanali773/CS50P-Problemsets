@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-12-15",
+        "subject": "Python",
+        "time": 25,
+        "mood": "neutral"
+    },
+    {
+        "date": "2025-12-15",
+        "subject": "C++",
+        "time": 10,
+        "mood": "tired"
+    }
+]
